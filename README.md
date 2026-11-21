@@ -6,7 +6,7 @@
 
 [🌐 Live demo](https://study.aicollabx.org) · [Roadmap](#roadmap) · [Contact](#contact)
 
-![status](https://img.shields.io/badge/status-pilot-blue) ![platform](https://img.shields.io/badge/platform-web%20%7C%20iPad%20%7C%20ESP32-green) ![AI](https://img.shields.io/badge/AI-Claude-orange) ![lang](https://img.shields.io/badge/language-Vietnamese-red)
+![status](https://img.shields.io/badge/status-pilot-blue) ![platform](https://img.shields.io/badge/platform-web%20%7C%20iPad%20%7C%20ESP32-green) ![AI](https://img.shields.io/badge/AI-Gemini%20%7C%20Claude%20%7C%20GPT-orange) ![lang](https://img.shields.io/badge/language-Vietnamese-red)
 
 </div>
 
@@ -40,12 +40,12 @@ A small **ESP32 voice device** lets the child talk to the tutor hands-free and r
 
 ```
  ESP32 voice device ─┐
- iPad / iPhone app ──┼──► Study Hub API ──► LLM (Claude) + curriculum knowledge
+ iPad / iPhone app ──┼──► Study Hub API ──► LLMs (Gemini Live voice, Claude, GPT) + curriculum knowledge
  Web study display ──┘          │
                                 └──► Zalo bridge (parent notifications)
 ```
 
-Stack: Python · JavaScript · ESP32 firmware · Claude API
+Stack: Python · JavaScript · ESP32 firmware · Gemini Live API · Claude API · OpenAI API
 
 ## Status
 
