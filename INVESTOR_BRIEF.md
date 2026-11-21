@@ -34,11 +34,11 @@ A voice-first AI study companion that helps Vietnamese students (ages 11–15) d
 Multi-model by design: Gemini (voice, vision), Claude, GPT. Source code is private and a demo is available on request.
 
 <p align="center">
-  <img src="docs/img/device-idle.jpg" width="230" alt="HubStudy ESP32 device, idle screen">
+  <img src="docs/img/device-teacher.jpg" width="230" alt="Teacher persona listening">
   <img src="docs/img/device-buddy.jpg" width="230" alt="Buddy persona listening">
   <img src="docs/img/device-mom.jpg" width="230" alt="Mom persona listening">
 </p>
-<p align="center"><i>Real ESP32 round-screen prototype (photos, Nov 2026): idle, the Buddy persona and the Mom persona listening in Vietnamese.</i></p>
+<p align="center"><i>Real ESP32 round-screen prototype (photos, Nov 2026): the three personas (Teacher, Buddy, Mom) listening in Vietnamese.</i></p>
 
 **Demo videos**
 

@@ -29,11 +29,11 @@ HubStudy is a voice-first AI tutor that follows **the child's actual school sche
 A small **ESP32 voice device** lets the child talk to the tutor hands-free and reminds them when it's study time — no screen required.
 
 <p align="center">
-  <img src="docs/img/device-idle.jpg" width="230" alt="HubStudy ESP32 device, idle screen">
+  <img src="docs/img/device-teacher.jpg" width="230" alt="Teacher persona listening">
   <img src="docs/img/device-buddy.jpg" width="230" alt="Buddy persona listening">
   <img src="docs/img/device-mom.jpg" width="230" alt="Mom persona listening">
 </p>
-<p align="center"><i>Real ESP32 round-screen prototype (photos, Nov 2026): idle, the Buddy persona and the Mom persona listening in Vietnamese.</i></p>
+<p align="center"><i>Real ESP32 round-screen prototype (photos, Nov 2026): the three personas (Teacher, Buddy, Mom) listening in Vietnamese.</i></p>
 
 ## Demo videos
 
