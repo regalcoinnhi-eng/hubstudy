@@ -33,7 +33,7 @@ A small **ESP32 voice device** lets the child talk to the tutor hands-free and r
 - 📖 Curriculum-grounded answers (Vietnamese MOET textbooks)
 - 🗓️ Study schedule synced with the school timetable + spoken reminders
 - 🎙️ Voice conversation (web, iPad/iPhone, ESP32 device)
-- 👪 Parent updates via Zalo
+- 👪 Parent updates via Zalo *(in progress)*
 - 🖥️ Study display dashboard for the home desk
 
 ## Architecture
@@ -49,13 +49,13 @@ Stack: Python · JavaScript · ESP32 firmware · Gemini Live API · Claude API �
 
 ## Status
 
-🚧 **Pilot** — running daily with a real 6th-grade student at home. Source code is private during the pilot; this repo hosts public docs, roadmap and issue tracking.
+🚧 **Internal pilot (n=1, ~3 weeks)**: in daily use with one 6th-grade student at home. Pre-revenue. Source code is private during the pilot; this repo hosts public docs, roadmap and issue tracking.
 
 ## Roadmap
 
 - [x] Voice tutor with 3 characters
-- [x] ESP32 voice device + study reminders
-- [x] Zalo parent bridge
+- [x] ESP32 voice device prototype
+- [ ] Zalo parent delivery (allowlist design done)
 - [ ] Full grade 6–9 textbook coverage
 - [ ] Multi-family beta (10 families)
 - [ ] Teacher/school dashboard
