@@ -40,6 +40,13 @@ Multi-model by design: Gemini (voice, vision), Claude, GPT. Source code is priva
 </p>
 <p align="center"><i>Real ESP32 round-screen prototype (photos, Nov 2026): idle, the Buddy persona and the Mom persona listening in Vietnamese.</i></p>
 
+**Demo videos**
+
+[![HubStudy device demo, click to play](docs/video/demo-preview.gif)](docs/video/demo-personas.mp4)
+
+- [Persona switching, 27 s](docs/video/demo-personas.mp4): the Mom persona greets the student, then the Teacher persona asks what to review today. Real device, real Vietnamese voice, no editing.
+- [Teacher tutoring session, 51 s](docs/video/demo-tutor.mp4): the Teacher persona guides a homework question step by step instead of giving the answer.
+
 ## 4. Differentiation (claims we still need to test)
 
 1. **Grounded in today's class:** the source of truth is the notebook and the timetable, not a generic syllabus.
