@@ -1,0 +1,65 @@
+<div align="center">
+
+# 📚 HubStudy
+
+**An AI study companion for Vietnamese primary & secondary students — grounded in the real school curriculum and textbooks.**
+
+[🌐 Live demo](https://study.aicollabx.org) · [Roadmap](#roadmap) · [Contact](#contact)
+
+![status](https://img.shields.io/badge/status-pilot-blue) ![platform](https://img.shields.io/badge/platform-web%20%7C%20iPad%20%7C%20ESP32-green) ![AI](https://img.shields.io/badge/AI-Claude-orange) ![lang](https://img.shields.io/badge/language-Vietnamese-red)
+
+</div>
+
+---
+
+## The problem
+
+Vietnamese kids study a dense national curriculum, often alone after school. Generic chatbots drift away from what's in their textbooks, are text-heavy, and are hard for a 6th grader to use without a parent next to them.
+
+## The solution
+
+HubStudy is a voice-first AI tutor that follows **the child's actual school schedule and textbooks**, delivered through three characters:
+
+| Character | Role |
+|---|---|
+| 🧑‍🤝‍🧑 **Bạn (Buddy)** | Chats when the child is tired; answers curious questions about nature & society |
+| 👨‍🏫 **Thầy (Teacher)** | Guides homework and lessons following the school timetable |
+| 👩 **Mom** | Listens when the child wants to talk; helps with extra subjects |
+
+A small **ESP32 voice device** lets the child talk to the tutor hands-free and reminds them when it's study time — no screen required.
+
+## Features
+
+- 📖 Curriculum-grounded answers (Vietnamese MOET textbooks)
+- 🗓️ Study schedule synced with the school timetable + spoken reminders
+- 🎙️ Voice conversation (web, iPad/iPhone, ESP32 device)
+- 👪 Parent updates via Zalo
+- 🖥️ Study display dashboard for the home desk
+
+## Architecture
+
+```
+ ESP32 voice device ─┐
+ iPad / iPhone app ──┼──► Study Hub API ──► LLM (Claude) + curriculum knowledge
+ Web study display ──┘          │
+                                └──► Zalo bridge (parent notifications)
+```
+
+Stack: Python · JavaScript · ESP32 firmware · Claude API
+
+## Status
+
+🚧 **Pilot** — running daily with a real 6th-grade student at home. Source code is private during the pilot; this repo hosts public docs, roadmap and issue tracking.
+
+## Roadmap
+
+- [x] Voice tutor with 3 characters
+- [x] ESP32 voice device + study reminders
+- [x] Zalo parent bridge
+- [ ] Full grade 6–9 textbook coverage
+- [ ] Multi-family beta (10 families)
+- [ ] Teacher/school dashboard
+
+## Contact
+
+Cao Duc Chung — 🌐 [study.aicollabx.org](https://study.aicollabx.org)
