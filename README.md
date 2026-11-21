@@ -4,7 +4,7 @@
 
 **An AI study companion for Vietnamese primary & secondary students — grounded in the real school curriculum and textbooks.**
 
-[🌐 Live demo](https://study.aicollabx.org) · [Roadmap](#roadmap) · [Contact](#contact)
+[🌐 Live demo](https://study.aicollabx.org) · [📄 Investor brief](INVESTOR_BRIEF.md) · [Roadmap](#roadmap) · [Contact](#contact)
 
 ![status](https://img.shields.io/badge/status-pilot-blue) ![platform](https://img.shields.io/badge/platform-web%20%7C%20iPad%20%7C%20ESP32-green) ![AI](https://img.shields.io/badge/AI-Gemini%20%7C%20Claude%20%7C%20GPT-orange) ![lang](https://img.shields.io/badge/language-Vietnamese-red)
 
@@ -62,4 +62,4 @@ Stack: Python · JavaScript · ESP32 firmware · Gemini Live API · Claude API �
 
 ## Contact
 
-Cao Duc Chung — 🌐 [study.aicollabx.org](https://study.aicollabx.org)
+Cao Duc Chung — ✉️ hello@aicollabx.org — 🌐 [study.aicollabx.org](https://study.aicollabx.org)
