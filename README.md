@@ -40,6 +40,12 @@ A small **ESP32 voice device** lets the child talk to the tutor hands-free and r
 [![HubStudy device demo, click to play](docs/video/demo-preview.gif)](docs/video/demo-personas.mp4)
 
 - [Persona switching, 27 s](docs/video/demo-personas.mp4): the Mom persona greets the student, then the Teacher persona asks what to review today. Real device, real Vietnamese voice, no editing.
+
+
+
+https://github.com/user-attachments/assets/c57d66c4-03ef-437d-b7df-e3586a943463
+
+
 - [Teacher tutoring session, 51 s](docs/video/demo-tutor.mp4): the Teacher persona guides a homework question step by step instead of giving the answer.
 
 ## Features
