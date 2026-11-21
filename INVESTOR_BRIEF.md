@@ -83,7 +83,14 @@ Vietnam edtech estimates for 2025 range from **USD 1.1B (IMARC)** to **USD 3.7B 
 
 ## 10. Team
 
-Solo founder, Cao Duc Chung, building with AI coding agents coordinated by [HubWork](https://github.com/tarochi0001-stack/hubwork). *(Founder background: to be added.)* First hire or advisor: curriculum and pedagogy lead.
+**Cao Duc Chung, solo founder (full-time).**
+- Bachelor of Business Administration, University of Economics.
+- 10 years in sales at MobiFone (Vietnam telecom operator), specialising in developing IT projects for business customers: scoping needs, selling and coordinating delivery.
+- Last 3 years: 100% of time on researching and learning AI, now 100% dedicated to AI products for work and education.
+- Mission: products that serve everyday needs for ordinary people.
+- Why this founder: a sales and project-delivery background (customer discovery, B2B/B2B2C channels such as schools and telecom partners) paired with hands-on AI building, shipping production code through agent orchestration rather than a large engineering team.
+
+Built with AI coding agents coordinated by [HubWork](https://github.com/tarochi0001-stack/hubwork). Gap we know: no pedagogy expert yet. First hire or advisor: curriculum and pedagogy lead.
 
 ## 11. Ask (per program)
 
